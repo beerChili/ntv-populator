@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/node,osx
 
+# TreeTagger
+treetagger
+
 ### Node ###
 # Logs
 logs
