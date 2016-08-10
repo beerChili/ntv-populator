@@ -13,3 +13,4 @@ RUN npm install
 
 COPY lib /populator/lib
 COPY populator.js /populator
+COPY stopwords.txt /populator
