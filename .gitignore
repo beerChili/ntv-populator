@@ -4,9 +4,6 @@
 # Production config
 config/production.yaml
 
-# TreeTagger
-treetagger
-
 ### Node ###
 # Logs
 logs
