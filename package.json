@@ -1,6 +1,6 @@
 {
   "name": "ntv-populator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "description": "",
   "main": "populator.js",
@@ -14,10 +14,12 @@
   "homepage": "https://github.com/liebreich/ntv-populator#readme",
   "dependencies": {
     "check": "^1.0.0",
+    "config": "^1.21.0",
     "debug": "^2.2.0",
+    "js-yaml": "^3.6.1",
     "lodash": "^4.13.1",
     "moment": "^2.14.1",
-    "ntv-scraper": "git+https://liebreich:3c69a2999f08bd3836402fc2ba8bc3341c13bcea@github.com/liebreich/ntv-scraper.git",
+    "ntv-scraper": "git://github.com/liebreich/ntv-scraper.git",
     "treetagger": "git://github.com/nyxtom/treetagger.git"
   }
 }

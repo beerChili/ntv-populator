@@ -1,6 +1,7 @@
 *
 !package.json
 !lib
+!config
 !populator.js
 !stopwords.txt
 !treetagger

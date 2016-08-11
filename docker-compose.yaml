@@ -3,7 +3,6 @@ services:
   populator:
     command: tail -f /dev/null
     environment:
-      - DEBUG=*
       - TREETAGGER=/usr/local/treetagger/cmd
     build: .
     volumes:
