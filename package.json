@@ -19,7 +19,7 @@
     "js-yaml": "^3.6.1",
     "lodash": "^4.13.1",
     "moment": "^2.14.1",
-    "ntv-scraper": "git+https://liebreich:08085d4f741cc3061d5860870d435f57f3303221@github.com/liebreich/ntv-scraper.git",
+    "ntv-scraper": "git://github.com/liebreich/ntv-scraper.git",
     "treetagger": "git://github.com/nyxtom/treetagger.git"
   }
 }
